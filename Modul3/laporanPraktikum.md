@@ -47,6 +47,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/Modul3/output/Output1.pbn)
+![Screenshot Output Unguided 1_1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/Modul3/output/Output1.png)
 [penjelasan]
 
