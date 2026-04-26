@@ -47,7 +47,7 @@ func main() {
 ### Output :
 
 ##### Output 
-![Screenshot Output soal 1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/modul9/output/output1.png)
+![Screenshot Output soal 1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/Laprak/Laprak s2/modul9/output/output1.png)
 [penjelasan]
 Program ini mengecek apakah sebuah titik berada di dalam dua lingkaran tertentu dengan membandingkan jarak titik ke pusat lingkaran terhadap panjang jari-jarinya dengan menggunakan rumus pythagoras, sistem menghitung jarak tersebut, jika jaraknya lebih kecil atau sama dengan jari-jari, maka titik dianggap berada di dalam lingkaran. Hasil akhirnya adalah informasi apakah titik tersebut berada di antara keduanya, hanya masuk di salah satu lingkaran, atau berada di luar keduanya
 
@@ -134,7 +134,7 @@ func main() {
 ### Output :
 
 ##### Output 
-![Screenshot Output Soal 2](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/modul9/output/output2.png)
+![Screenshot Output Soal 2](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/Laprak/Laprak s2/modul9/output/output2.png)
 [penjelasan]
 Program ini membiarkan kita untuk menentukan jumlah indeks dulu sebelum menginput isi Array nya, lalu mennunjukan semua isinya, isi Indeks ganjil, isi Indeks genap, kelipatan, rata rata, deviasi, dan indeks mana yang ingin kita hapus, lalu hasil akhir setelah indeks itu dihapus
 
@@ -187,7 +187,7 @@ func main() {
 ### Output :
 
 ##### Output 
-![Screenshot Output Soal 3](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/modul9/output/output3.png)
+![Screenshot Output Soal 3](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/Laprak/Laprak s2/modul9/output/output3.png)
 [penjelasan]
 Program ini membiarkan kita menginput dua nama tim sepakbola, lalu menginput hasil hasil skor tiap pertandingan, lalu program ini akan menunjukkan tim mana yang memenangkabn tiap pertandingannya
 
@@ -226,6 +226,6 @@ func main() {
 ### Output :
 
 ##### Output 
-![Screenshot Output Soal 4](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/modul9/output/output4.png)
+![Screenshot Output Soal 4](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/Laprak/Laprak s2/modul9/output/output4.png)
 [penjelasan]
 Program ini akan mempersilahkan kita untuk menginput sebuah kata lalu membaliknya, dan akan menentukan apakah kata itu palindrom atau bukan
