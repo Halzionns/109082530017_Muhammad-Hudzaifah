@@ -47,7 +47,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/modul3/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/blob/main/modul3/output/output-soal1.png)
 [penjelasan]
 Kombinasi dan permutasi
 
@@ -88,7 +88,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/modul3/output/output-soal2.png)
+![Screenshot Output Unguided 1_1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/blob/main/modul3/output/output-soal2.png)
 [penjelasan]
 penulisan dalam bentuk function
 
@@ -139,6 +139,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/modul3/output/output-soal3.png)
+![Screenshot Output Unguided 1_1](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/blob/main/modul3/output/output-soal3.png)
 [penjelasan]
 koordinat
