@@ -73,6 +73,7 @@ func main() {
 		fmt.Printf("Berat ikan ke-%d: ", i+1)
 		fmt.Scan(&beratIkan[i])
 	}
+	
 
 	var totalBeratKeseluruhan float64
 	var jumlahWadah int
