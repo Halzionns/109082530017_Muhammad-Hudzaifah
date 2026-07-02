@@ -110,6 +110,6 @@ func main() {
 ### Output :
 
 ##### Output 
-![Screenshot Output Soal 2](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/blob/main/modul2/output/output3.png)
+![Screenshot Output Soal 3](https://github.com/Halzionns/109082530017_Muhammad-Hudzaifah/blob/main/modul2/output/output3.png)
 [penjelasan]
 Pertama, kita siapin variabel integer buat nampung total berat, berat dalam kg, sisa gram, sama variabel biayanya, kita scan input berat parsel dalam satuan gram, terus kita bagi inputnya dengan 1000 buat dapet nilai kg dan pakai modulus 1000 buat dapet sisa gramnya, habis itu kita hitung biaya dasar dengan cara berat kg dikali 10000, lalu untuk sisa gramnya kita kasih percabangan, kalau berat totalnya lebih dari 10 kg maka biaya sisanya otomatis nol, tapi kalau di bawah itu kita cek lagi sisanya, jika minimal 500 gram dikali 5 rupiah dan jika kurang dari itu dikali 15 rupiah, terakhir, biaya dasar dan sisa dijumlahin terus semuanya tinggal diprint
